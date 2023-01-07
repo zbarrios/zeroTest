@@ -1,0 +1,3 @@
+X es el personaje principal.
+
+Su color caracteristico es el azul.
